@@ -14563,6 +14563,24 @@ body.white-version {
 .white-version .footer-area .description a:hover {
   color: var(--color-primary); }
 
+
+
+
+
+
+
+
+
+ 
+
+ .img{
+    padding-top: 50px;
+  }
+
+.padding{
+  padding-bottom: 240px;
+}
+
 .white-version .slide.slider-style-4 .social-share-inner-left span.title {
   color: var(--color-white); }
 
